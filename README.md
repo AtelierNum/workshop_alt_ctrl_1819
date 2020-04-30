@@ -53,7 +53,6 @@ Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Aurian
 
 La documentation du projet est disponible [ici](Pepite/README.md)
 
-
 ---
 ## Cosmo
 
@@ -74,6 +73,19 @@ Ce projet a été réalisé par : Baptiste Guerin, Salomé Gloanec, Alix Gora et
 <img src="Fireflies/Flyer1.png" width="240" height="300" /><img src="Fireflies/Flyer2.png" width="240" height="300" />
 
 <img src="Fireflies/gif.gif" width="300" height="480" />
+
+---
+## Prayds
+
+Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Auriane Pouzin et Quentin Hamon.
+
+
+<img src="Prayds/Flyer1.png" width="240" height="300" /><img src="Prayds/Flyer2.png" width="240" height="300" />
+
+<img src="Prayds/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](Prayds/README.md)
 
 
 ---
