@@ -30,7 +30,7 @@ La documentation du projet est disponible [ici](ColorWaves/README.md)
 ---
 ## Hysteric Jumper
 
-Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Mené & Slévin Vleöbergh
+Ce projet a été réalisé par : Lengliang LI - Yacine El Makhzoumi - Samuel Lefebvre - Camille Campo
 
 
 <img src="HystericJumper/Flyer1.png" width="240" height="300" /><img src="HystericJumper/Flyer2.png" width="240" height="300" />
