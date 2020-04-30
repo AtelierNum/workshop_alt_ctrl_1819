@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# workshop_alt_ctrl_1920
 
-You can use the [editor on GitHub](https://github.com/AtelierNum/workshop_alt_ctrl_1819/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Code and documentation](https://github.com/AtelierNum/workshop_alt_ctrl_1819) for the alternative controller workshop by interaction and game design students @lecolededesign.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Students were asked to imagine an alternative way to play and design an unusual controller and the game associated with it in four days..
 
-### Markdown
+Files can be found on [github](https://github.com/AtelierNum/workshop_alt_ctrl_1819)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Code et documentation](https://github.com/AtelierNum/workshop_alt_ctrl_1819) pour le workshop "controleur alternatif" réalisé par les étudiants en design d'interaction et de game design @lecolededesign. Ce projet est réalisé à l'aide d'arduino.
 
-```markdown
-Syntax highlighted code block
+Les étudiants avait pour mission, en quatre jour d'imaginer un controleur de jeu vidéo alternatif ainsi que le jeu vidéo associé.
 
-# Header 1
-## Header 2
-### Header 3
+Les fichiers peuvent-être téléchargés sur [github](https://github.com/AtelierNum/workshop_alt_ctrl_1819)
 
-- Bulleted
-- List
+---
+## Be Quiet
 
-1. Numbered
-2. List
+Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Conte, Andrews Kimbembe et Sébastien Reischek
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<img src="Be_Quiet/Flyer1.png" width="240" height="300" /><img src="Be_Quiet/Flyer2.png" width="240" height="300" />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="Be_Quiet/gif.gif" width="480" height="300" />
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtelierNum/workshop_alt_ctrl_1819/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[**home**](../README.md)
