@@ -48,7 +48,7 @@
 
 >
 >
-##### Théotim Auger - Sarah Gergaux - Sophie Le Gallo - Virignie Souffoy
+**Théotim Auger - Sarah Gergaux - Sophie Le Gallo - Virignie Souffoy**
 
 [**home**](../README.md)
 

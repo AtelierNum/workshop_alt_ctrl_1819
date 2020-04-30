@@ -77,8 +77,7 @@ Ce projet a été réalisé par : Baptiste Guerin, Salomé Gloanec, Alix Gora et
 ---
 ## Prayds
 
-Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Auriane Pouzin et Quentin Hamon.
-
+Ce projet a été réalisé par : Théotim Auger - Sarah Gergaux - Sophie Le Gallo - Virignie Souffoy
 
 <img src="Prayds/Flyer1.png" width="240" height="300" /><img src="Prayds/Flyer2.png" width="240" height="300" />
 
