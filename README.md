@@ -39,6 +39,17 @@ Ce projet a été réalisé par : François Arnaud, Loïc Renaud, Baptiste Deroc
 
 
 ---
+## Fireflies
+
+Ce projet a été réalisé par : Baptiste Guerin, Salomé Gloanec, Alix Gora et Manon Leverrier.
+
+
+<img src="Fireflies/Flyer1.png" width="240" height="300" /><img src="Fireflies/Flyer2.png" width="240" height="300" />
+
+<img src="Fireflies/gif.gif" width="300" height="480" />
+
+
+---
 ## Be Quiet
 
 Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Conte, Andrews Kimbembe et Sébastien Reischek
@@ -47,7 +58,6 @@ Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Co
 <img src="Be_Quiet/Flyer1.png" width="240" height="300" /><img src="Be_Quiet/Flyer2.png" width="240" height="300" />
 
 <img src="Be_Quiet/gif.gif" width="480" height="300" />
-
 
 
 
