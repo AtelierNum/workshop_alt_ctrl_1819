@@ -12,6 +12,21 @@ Les étudiants avait pour mission, en quatre jour d'imaginer un controleur de je
 
 Les fichiers peuvent-être téléchargés sur [github](https://github.com/AtelierNum/workshop_alt_ctrl_1819)
 
+
+
+---
+## ColorWaves
+
+Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Mené & Slévin Vleöbergh
+
+
+<img src="ColorWaves/Flyer1.png" width="240" height="300" /><img src="ColorWaves/Flyer2.png" width="240" height="300" />
+
+<img src="ColorWaves/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](ColorWaves/README.md)
+
 ---
 ## Be Quiet
 
@@ -23,6 +38,12 @@ Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Co
 <img src="Be_Quiet/gif.gif" width="480" height="300" />
 
 
+
+
+
+
+
+La documentation du projet est disponible [ici](Stamp_It/README.md)
 
 
 [**home**](../README.md)
