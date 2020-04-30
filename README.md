@@ -98,7 +98,6 @@ Ce projet a été réalisé par : Théotim Auger - Sarah Gergaux - Sophie Le Gal
 
 <img src="Prayds/gif.gif" width="480" height="300" />
 
-
 La documentation du projet est disponible [ici](Prayds/README.md)
 
 ---
@@ -110,6 +109,18 @@ Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Co
 <img src="Be_Quiet/Flyer1.png" width="240" height="300" /><img src="Be_Quiet/Flyer2.png" width="240" height="300" />
 
 <img src="Be_Quiet/gif.gif" width="480" height="300" />
+
+---
+## Spill the tea
+
+Ce projet a été réalisé par : Lucie Marécaille, Guilia Savelli, Justine Viot, Quentin Renoux et Luna Azibeiro.
+
+
+<img src="Spill_the_tea/Flyer1.png" width="240" height="300" /><img src="Spill_the_tea/Flyer2.png" width="240" height="300" />
+
+<img src="Spill_the_tea/gif.gif" width="480" height="300" />
+
+
 
 
 
