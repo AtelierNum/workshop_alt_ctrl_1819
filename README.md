@@ -67,6 +67,20 @@ Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Aurian
 
 La documentation du projet est disponible [ici](Pepite/README.md)
 
+---
+## The Splite Game
+
+Ce projet a été réalisé par : Raphaëlle Gorenbouh, Seohee Park, Anna Rabeony, Zemin Xu
+
+
+<img src="TheSpliteGame/Flyer1.png" width="240" height="300" /><img src="TheSpliteGame/Flyer2.png" width="240" height="300" />
+
+<img src="TheSpliteGame/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](TheSpliteGame/README.md)
+
+
 
 ---
 ## Hysteric Jumper
