@@ -1,4 +1,4 @@
-# workshop_alt_ctrl_1920
+# workshop_alt_ctrl_1819
 
 [Code and documentation](https://github.com/AtelierNum/workshop_alt_ctrl_1819) for the alternative controller workshop by interaction and game design students @lecolededesign.
 
@@ -148,11 +148,3 @@ Ce projet a été réalisé par : Lucie Marécaille, Guilia Savelli, Justine Vio
 
 <img src="Spill_the_tea/gif.gif" width="480" height="300" />
 
-
-
-
-
-
-
-
-[**home**](../README.md)
