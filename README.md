@@ -40,6 +40,19 @@ Ce projet a été réalisé par : Lengliang LI - Yacine El Makhzoumi - Samuel Le
 
 La documentation du projet est disponible [ici](HystericJumper/README.md)
 
+---
+## La Pépite
+
+Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Auriane Pouzin et Quentin Hamon.
+
+
+<img src="Pepite/Flyer1.png" width="240" height="300" /><img src="Pepite/Flyer2.png" width="240" height="300" />
+
+<img src="Pepite/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](Pepite/README.md)
+
 
 ---
 ## Cosmo
