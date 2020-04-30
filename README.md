@@ -28,17 +28,17 @@ Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Me
 La documentation du projet est disponible [ici](ColorWaves/README.md)
 
 ---
-## Hysteric Jumper
+## Shiffoumort
 
-Ce projet a été réalisé par : Lengliang LI - Yacine El Makhzoumi - Samuel Lefebvre - Camille Campo
-
-
-<img src="HystericJumper/Flyer1.png" width="240" height="300" /><img src="HystericJumper/Flyer2.png" width="240" height="300" />
-
-<img src="HystericJumper/gif.gif" width="480" height="300" />
+Ce projet a été réalisé par : Enzo Wattebled I3A / Quentin Thomas / Maxime Thureau / Morgane Thomas / Baptiste Marionneau
 
 
-La documentation du projet est disponible [ici](HystericJumper/README.md)
+<img src="Shiffoumort/Flyer1.png" width="240" height="300" /><img src="Shiffoumort/Flyer2.png" width="240" height="300" />
+
+<img src="Shiffoumort/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](Shiffoumort/README.md)
 
 ---
 ## La Pépite
@@ -52,6 +52,21 @@ Ce projet a été réalisé par : Fabien Gachet-Thoumine, Aurélie Caré, Aurian
 
 
 La documentation du projet est disponible [ici](Pepite/README.md)
+
+
+---
+## Hysteric Jumper
+
+Ce projet a été réalisé par : Lengliang LI - Yacine El Makhzoumi - Samuel Lefebvre - Camille Campo
+
+
+<img src="HystericJumper/Flyer1.png" width="240" height="300" /><img src="HystericJumper/Flyer2.png" width="240" height="300" />
+
+<img src="HystericJumper/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](HystericJumper/README.md)
+
 
 ---
 ## Cosmo
@@ -85,7 +100,6 @@ Ce projet a été réalisé par : Théotim Auger - Sarah Gergaux - Sophie Le Gal
 
 
 La documentation du projet est disponible [ici](Prayds/README.md)
-
 
 ---
 ## Be Quiet
