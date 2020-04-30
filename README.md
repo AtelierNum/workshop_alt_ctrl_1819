@@ -28,6 +28,17 @@ Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Me
 La documentation du projet est disponible [ici](ColorWaves/README.md)
 
 ---
+## Cosmo
+
+Ce projet a été réalisé par : François Arnaud, Loïc Renaud, Baptiste Deroche et Paul Poirier
+
+
+<img src="Cosmo/Flyer1.png" width="240" height="300" /><img src="Cosmo/Flyer2.png" width="240" height="300" />
+
+<img src="Cosmo/gif.gif" width="480" height="300" />
+
+
+---
 ## Be Quiet
 
 Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Conte, Andrews Kimbembe et Sébastien Reischek
