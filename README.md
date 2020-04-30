@@ -28,6 +28,20 @@ Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Me
 La documentation du projet est disponible [ici](ColorWaves/README.md)
 
 ---
+## Splateau
+
+Ce projet a été réalisé par : Antoine Cesbron, Mathis Freudenberger, Pierre Fontaine et Victor Ducrot
+
+
+<img src="Splateau/Flyer1.png" width="240" height="300" /><img src="Splateau/Flyer2.png" width="240" height="300" />
+
+<img src="Splateau/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](Splateau/README.md)
+
+
+---
 ## Shiffoumort
 
 Ce projet a été réalisé par : Enzo Wattebled I3A / Quentin Thomas / Maxime Thureau / Morgane Thomas / Baptiste Marionneau
