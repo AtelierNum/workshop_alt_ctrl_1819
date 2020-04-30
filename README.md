@@ -28,6 +28,20 @@ Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Me
 La documentation du projet est disponible [ici](ColorWaves/README.md)
 
 ---
+## Hysteric Jumper
+
+Ce projet a été réalisé par : Alia ElKayar, Armand Lemaitre, Guillaume Le Mené & Slévin Vleöbergh
+
+
+<img src="HystericJumper/Flyer1.png" width="240" height="300" /><img src="HystericJumper/Flyer2.png" width="240" height="300" />
+
+<img src="HystericJumper/gif.gif" width="480" height="300" />
+
+
+La documentation du projet est disponible [ici](HystericJumper/README.md)
+
+
+---
 ## Cosmo
 
 Ce projet a été réalisé par : François Arnaud, Loïc Renaud, Baptiste Deroche et Paul Poirier
@@ -62,9 +76,6 @@ Ce projet a été réalisé par : Simon Renault, Martin Lamire, Christophe Le Co
 
 
 
-
-
-La documentation du projet est disponible [ici](Stamp_It/README.md)
 
 
 [**home**](../README.md)
